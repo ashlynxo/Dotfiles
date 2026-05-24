@@ -4,6 +4,7 @@
 
 These dotfiles are meant for a fast, neon-dark Linux desktop: keyboard-driven, pretty, minimal, and actually usable for coding/design work.
 
+![banner]()
 ---
 
 <details open>
