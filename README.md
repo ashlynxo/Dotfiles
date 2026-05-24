@@ -1,4 +1,4 @@
-# ✦ Ashlyn Dotfiles
+# ✦ Kali Linux Dotfiles
 
 > A modern refresh of my old Linux dotfiles — rebuilt for **Ashlyn**, with AwesomeWM, Zsh, WezTerm, Picom, Starship, Fastfetch, and a cleaner 2026 terminal workflow.
 
