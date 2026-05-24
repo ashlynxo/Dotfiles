@@ -1,0 +1,8 @@
+# Core desktop
+awesome-git picom-git rofi wezterm dunst feh xclip xorg-xrandr xorg-xsetroot network-manager-applet blueman udiskie flameshot playerctl brightnessctl pavucontrol pipewire pipewire-pulse wireplumber
+
+# Shell / terminal workflow
+zsh starship zoxide fzf eza bat fd ripgrep fastfetch btop yazi lazygit git github-cli jq unzip unrar p7zip tar rsync curl wget
+
+# Dev / creative
+neovim visual-studio-code-bin firefox thunar tumbler gvfs noto-fonts noto-fonts-emoji ttf-cascadia-code-nerd ttf-iosevka-nerd ttf-inter
