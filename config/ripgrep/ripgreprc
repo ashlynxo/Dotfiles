@@ -1,0 +1,8 @@
+--hidden
+--glob=!.git/*
+--glob=!node_modules/*
+--glob=!dist/*
+--glob=!build/*
+--smart-case
+--colors=match:fg:magenta
+--colors=line:fg:cyan

@@ -1,0 +1,57 @@
+format = "$username$hostname$directory$git_branch$git_status$nodejs$python$rust$cmd_duration$line_break$character"
+add_newline = true
+palette = "ashlyn"
+
+[palettes.ashlyn]
+pink = "#ff6b8b"
+blue = "#89b4fa"
+cyan = "#89f7fe"
+lavender = "#cba6f7"
+green = "#a6e3a1"
+yellow = "#f9d56e"
+text = "#f4f7ff"
+
+[username]
+show_always = true
+style_user = "bold pink"
+format = "[$user]($style) "
+
+[hostname]
+ssh_only = true
+style = "bold blue"
+format = "on [$hostname]($style) "
+
+[directory]
+style = "bold cyan"
+truncation_length = 3
+truncate_to_repo = false
+read_only = " 󰌾"
+
+[git_branch]
+symbol = " "
+style = "bold lavender"
+
+[git_status]
+style = "yellow"
+format = "([$all_status$ahead_behind]($style) )"
+
+[nodejs]
+symbol = " "
+style = "green"
+
+[python]
+symbol = " "
+style = "yellow"
+
+[rust]
+symbol = " "
+style = "pink"
+
+[cmd_duration]
+min_time = 1000
+format = "took [$duration]($style) "
+style = "bold yellow"
+
+[character]
+success_symbol = "[❯](bold pink)"
+error_symbol = "[❯](bold red)"
