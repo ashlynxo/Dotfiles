@@ -1,6 +1,6 @@
 # ✦ Kali Linux Dotfiles
 
-> A modern refresh of my old Linux dotfiles — rebuilt for **Ashlyn**, with AwesomeWM, Zsh, WezTerm, Picom, Starship, Fastfetch, and a cleaner 2026 terminal workflow.
+> A modern refresh of my old Linux dotfiles, with AwesomeWM, Zsh, WezTerm, Picom, Starship, Fastfetch, and a cleaner 2026 terminal workflow.
 
 These dotfiles are meant for a fast, neon-dark Linux desktop: keyboard-driven, pretty, minimal, and actually usable for coding/design work.
 
