@@ -154,6 +154,3 @@ Some keybinds depend on the original AwesomeWM config modules.
 
 ---
 
-## Final vibe
-
-**Ashlyn Dotfiles** is a modernized neon-dark Linux setup for coding, ricing, and daily use — old AwesomeWM soul, cleaner 2026 tooling.
